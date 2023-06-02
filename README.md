@@ -55,6 +55,8 @@ Rename the first target as Home by pressing F2. Alternatively, select ToolsRenam
 
 ### PROGRAM 
 ```
+Developed by : Vasanthan .S.R
+Register NUmber : 212221220058
 PICKANDPLACE()
 
 # RoboDK Python Intermediate file to generate robot programs.
